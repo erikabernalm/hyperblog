@@ -5,7 +5,7 @@ body {
   text-align: center;
   font-family: 'Courier';
   font-size: 16px;
-  color: coral;
+  color: #333;
 }
 #container {
   width: 70%;
@@ -39,7 +39,12 @@ body {
   padding: 1em;
   background: white;
 }
-
+#imgPerro {
+  height: 380px;
+  width: 330px;
+  display: block;
+  margin: 0 auto;
+}
 footer {
   color: #33a;
   font-size: 20px;
